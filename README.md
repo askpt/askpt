@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me :  
-- 🔭 I’m André Silva  
-- 🌍 Born in Portugal 🇵🇹 Living in Ireland 🇮🇪  
-
 ![Metrics](/github-metrics.svg)
 
 ## 🌐 Socials
@@ -23,7 +19,9 @@
 **askpt/askpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+# 💫 About Me :  
+- 🔭 I’m André Silva  
+- 🌍 Born in Portugal 🇵🇹 Living in Ireland 🇮🇪  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
