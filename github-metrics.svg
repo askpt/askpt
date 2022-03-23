@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1954" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2021" class="">
     <defs>
         <style/>
     </defs>
@@ -587,6 +587,21 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 277 5/6
+                            <br />
+                            <br />
+                            🟩⬛⬛⬛⬛
+                            <br />
+                            🟨🟨⬛⬛⬛
+                            <br />
+                            🟩🟨🟨⬛⬛
+                            <br />
+                            🟩🟩🟩⬛🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">07:52:47 on 23 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 9 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . The functional bits of Swift looks great. This day about closures shows how this language is really recent.
@@ -607,15 +622,6 @@
                             <br />
                             🟩🟩🟩🟩🟩
                             <div class="date">08:11:22 on 22 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 8 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . I really enjoy the Swift syntax regarding the Errors/Exceptions. By having them explicitly declared we need to make sure all errors are handled correctly!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iOSDev</span>
-                            <div class="date">22:00:25 on 21 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3337,7 +3343,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2022, 07:14:09 (timezone Europe/Dublin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 08:23:25 (timezone Europe/Dublin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
