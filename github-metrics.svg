@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1923" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1857" class="">
     <defs>
         <style/>
     </defs>
@@ -607,6 +607,11 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            <span class="hashtag">#Severance</span>
+                            is really good! Highly recommended!
+                            <div class="date">21:05:42 on 25 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             This is crazy! 🤯
                             <span class="hashtag">#F1</span>
                             <span class="hashtag">#SaudiArabiaGP</span>
@@ -621,17 +626,6 @@
                             <span class="hashtag">#SwiftUI</span>
                             <span class="hashtag">#iOSDev</span>
                             <div class="date">07:34:00 on 25 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Wordle 279 3/6
-                            <br />
-                            <br />
-                            ⬛🟩⬛⬛⬛
-                            <br />
-                            🟨🟨⬛⬛🟩
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">07:32:15 on 25 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3399,7 +3393,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2022, 20:15:06 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 21:13:18 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
