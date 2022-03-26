@@ -607,6 +607,13 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Hamilton outside Q2?!? 🤯 This Mercedes doesn’t look good at all!
+                            <span class="hashtag">#MercedesAMGF1</span>
+                            <span class="hashtag">#F1</span>
+                            <span class="hashtag">#SaudiArabianGP</span>
+                            <div class="date">17:31:06 on 26 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 13 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Interesting to see that
@@ -631,15 +638,6 @@
                             <br />
                             🟩🟩🟩🟩🟩
                             <div class="date">08:19:35 on 26 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 12 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Today was all about classes!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iOSDev</span>
-                            <div class="date">22:19:29 on 25 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3412,7 +3410,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2022, 17:13:40 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Mar 2022, 18:16:08 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
