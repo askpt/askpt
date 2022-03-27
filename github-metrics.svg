@@ -518,27 +518,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 53.62930675612802%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.599406728241085%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 17.56397384724637%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.583888504133903%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 6.298209956656953%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.3053510906271635%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 1.338981805715405%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3404999908067392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 1.1695276342532508%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1708536861911094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -607,6 +607,21 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 281 5/6
+                            <br />
+                            <br />
+                            ⬛⬛⬛⬛🟩
+                            <br />
+                            🟨⬛⬛🟨⬛
+                            <br />
+                            ⬛⬛⬛⬛🟩
+                            <br />
+                            ⬛⬛🟨🟩🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">09:13:04 on 27 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             Hamilton outside Q2?!? 🤯 This Mercedes doesn’t look good at all!
                             <span class="hashtag">#MercedesAMGF1</span>
                             <span class="hashtag">#F1</span>
@@ -623,21 +638,6 @@
                             <span class="hashtag">#SwiftUI</span>
                             <span class="hashtag">#iOSDev</span>
                             <div class="date">13:07:15 on 26 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Wordle 280 5/6
-                            <br />
-                            <br />
-                            ⬛🟨⬛⬛⬛
-                            <br />
-                            🟨🟨⬛⬛⬛
-                            <br />
-                            ⬛⬛🟩⬛🟨
-                            <br />
-                            ⬛🟩🟩⬛🟨
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">08:19:35 on 26 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3415,7 +3415,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2022, 08:13:21 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 27 Mar 2022, 09:16:23 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
