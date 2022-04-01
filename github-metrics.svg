@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2045" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1979" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    729k added, 79.1k removed
+                                    803k added, 147k removed
                                 </div>
                             </section>
                             <section>
@@ -518,22 +518,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 52.14064055613454%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 52.140336985759035%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 19.936072474484302%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.935956403777407%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 5.989857764166818%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.989822890345718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 1.9334292052143434%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.9338837201178403%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -602,6 +602,12 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            It’s nice to see the Las Vegas F1 circuit but please don’t remove the classics like Spa from the calendar. They are important for the motorsport.
+                            <span class="hashtag">#LasVegasGP</span>
+                            <span class="hashtag">#F1</span>
+                            <div class="date">09:34:35 on 1 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Wordle 286 5/6
                             <br />
                             <br />
@@ -624,21 +630,6 @@
                             <span class="hashtag">#SwiftUI</span>
                             <span class="hashtag">#iosdev</span>
                             <div class="date">17:20:33 on 31 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Wordle 285 5/6
-                            <br />
-                            <br />
-                            ⬛⬛⬛⬛⬛
-                            <br />
-                            ⬛🟩⬛⬛⬛
-                            <br />
-                            🟩🟩⬛⬛🟩
-                            <br />
-                            🟩🟩⬛⬛🟩
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">07:46:20 on 31 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3041,7 +3032,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 404k out of 88m users</span>
+                                    <span class="gh">ranked 405k out of 88m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -3406,7 +3397,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2022, 09:24:20 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 1 Apr 2022, 10:19:15 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
