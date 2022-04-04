@@ -518,22 +518,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 54.18273999779566%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 48.81020180760183%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">61%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 14.160696572247327%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 18.095827658784202%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 11.524302876667035%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 12.945400519995047%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.13226055328998126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.14857001361891792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -602,10 +602,27 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 289 6/6
+                            <br />
+                            <br />
+                            ⬛⬛🟩⬛🟨
+                            <br />
+                            ⬛⬛⬛⬛⬛
+                            <br />
+                            🟩🟩🟩⬛⬛
+                            <br />
+                            🟩🟩🟩⬛🟩
+                            <br />
+                            🟩🟩🟩⬛🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">07:51:23 on 4 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Cannot wait for the
                             <span class="hashtag">#BrayAirDisplay</span>
                             !
-                            <a href="https://t.co/VkSu323o3H" class="link">twitter.com/BrayAirShow/st…</a>
+                            <a href="https://t.co/VkSu323o3H" class="link">twitter.com/brayairshow/st…</a>
                             <div class="date">20:13:22 on 3 Apr 2022</div>
                         </div>
                         <div class="tweet">
@@ -616,23 +633,6 @@
                             <span class="hashtag">#SwiftUI</span>
                             <span class="hashtag">#iosdev</span>
                             <div class="date">17:32:26 on 3 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Wordle 288 6/6
-                            <br />
-                            <br />
-                            🟨🟩⬛⬛⬛
-                            <br />
-                            ⬛⬛⬛⬛⬛
-                            <br />
-                            ⬛🟩⬛⬛⬛
-                            <br />
-                            ⬛🟩⬛🟩🟩
-                            <br />
-                            🟩🟩⬛🟩🟩
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">09:12:20 on 3 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3380,7 +3380,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2022, 07:18:26 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 4 Apr 2022, 08:15:12 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
