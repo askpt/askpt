@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1979" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2045" class="">
     <defs>
         <style/>
     </defs>
@@ -602,6 +602,21 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 297 5/6
+                            <br />
+                            <br />
+                            🟩⬛🟨⬛⬛
+                            <br />
+                            ⬛🟩⬛⬛⬛
+                            <br />
+                            🟩🟩⬛🟩🟩
+                            <br />
+                            🟩🟩⬛🟩🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">07:53:29 on 12 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 29 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . These old libraries seem so odd to be used. Looking at UiTextChecker 🤯
@@ -624,15 +639,6 @@
                             <br />
                             🟩🟩🟩🟩🟩
                             <div class="date">07:56:55 on 11 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 28 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Completed the app and I was able to complete all the challenges. The last one was tricky to find the answer but was quite straightforward when you know how to do!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <div class="date">15:43:58 on 10 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3385,7 +3391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2022, 07:18:27 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 12 Apr 2022, 08:15:03 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
