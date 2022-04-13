@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1979" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2029" class="">
     <defs>
         <style/>
     </defs>
@@ -602,6 +602,17 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 298 3/6
+                            <br />
+                            <br />
+                            ⬛⬛⬛🟨🟨
+                            <br />
+                            ⬛⬛⬛🟩⬛
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">07:52:07 on 13 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 30 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Another day, another app finished. Introduction to some lifecycle functions and access to bundled files. Quite interesting
@@ -624,15 +635,6 @@
                             <br />
                             🟩🟩🟩🟩🟩
                             <div class="date">07:53:29 on 12 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 29 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . These old libraries seem so odd to be used. Looking at UiTextChecker 🤯
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <div class="date">21:40:53 on 11 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3006,7 +3008,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 691k out of 298m repositories</span>
+                                    <span class="gh">ranked 691k out of 299m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -3102,7 +3104,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 372k out of 298m repositories</span>
+                                    <span class="gh">ranked 372k out of 299m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
@@ -3390,7 +3392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2022, 07:18:50 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 08:15:07 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
