@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1945" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1962" class="">
     <defs>
         <style/>
     </defs>
@@ -602,6 +602,19 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 299 4/6
+                            <br />
+                            <br />
+                            ⬛🟨⬛🟩⬛
+                            <br />
+                            ⬛⬛🟨🟨⬛
+                            <br />
+                            🟨🟩⬛🟩🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">07:43:13 on 14 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@Channel4</span>
                             : Are the
@@ -624,17 +637,6 @@
                             <span class="hashtag">#SwiftUI</span>
                             <span class="hashtag">#iosdev</span>
                             <div class="date">21:23:18 on 13 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Wordle 298 3/6
-                            <br />
-                            <br />
-                            ⬛⬛⬛🟨🟨
-                            <br />
-                            ⬛⬛⬛🟩⬛
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">07:52:07 on 13 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2815,7 +2817,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.47m out of 88m users</span>
+                                    <span class="gh">ranked 1.47m out of 89m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -3068,7 +3070,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 407k out of 88m users</span>
+                                    <span class="gh">ranked 407k out of 89m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -3397,7 +3399,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2022, 07:18:51 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 08:15:06 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
