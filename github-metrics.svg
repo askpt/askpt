@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1929" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1979" class="">
     <defs>
         <style/>
     </defs>
@@ -518,13 +518,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 77.54950076155018%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">97%</span>
+                                <div class="bar" style="width: 75.61181434599156%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">95%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.4504992384498223%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 4.388185654008439%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -592,6 +592,17 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Wordle 309 3/6
+                            <br />
+                            <br />
+                            🟨🟨⬛⬛⬛
+                            <br />
+                            ⬛⬛🟨🟨🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">08:18:36 on 24 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 41 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Really like the way the UI creation works. Cannot wait for the next app!
@@ -610,15 +621,6 @@
                             <br />
                             🟩🟩🟩🟩🟩
                             <div class="date">08:52:11 on 23 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 40 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Another lesson completed. 💪
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <div class="date">22:27:16 on 22 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3396,7 +3398,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 08:14:26 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 09:18:02 (timezone Europe/Dublin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
