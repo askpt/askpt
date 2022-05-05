@@ -592,6 +592,11 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            <span class="mention">@SamuelErz</span>
+                            I had that. So I renamed the Apple Watch name correctly and now it’s fine
+                            <div class="date">16:48:41 on 5 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             Wordle 320 5/6
                             <br />
                             <br />
@@ -612,14 +617,6 @@
                             : May the forks be with you. Always.
                             <a href="https://t.co/T0q3lnK1jk" class="link">pic.twitter.com/T0q3lnK1jk</a>
                             <div class="date">20:16:40 on 4 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@dpihac</span>
-                            <span class="mention">@CodicaCom</span>
-                            <span class="mention">@shanselman</span>
-                            <span class="mention">@davidfowl</span>
-                            “Slow load” -&gt; I’m glad the team introduced hot-reload a couple of months ago…
-                            <div class="date">16:33:15 on 4 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3382,7 +3379,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2022, 16:20:10 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 5 May 2022, 17:23:12 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
