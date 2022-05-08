@@ -518,12 +518,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 22.221568569775766%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.286028949024544%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.17570177760782815%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1762114537444934%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -592,6 +592,12 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Time for the race!
+                            <span class="hashtag">#MiamiGP</span>
+                            <span class="hashtag">#F1</span>
+                            <div class="date">20:29:08 on 8 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 56 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Today’s challenge was quite easy but it is always good to remember some tricks to improve the app.
@@ -610,12 +616,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">16:30:32 on 7 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Time for some good motorsport!
-                            <span class="hashtag">#6HSpa</span>
-                            <span class="hashtag">#WEC</span>
-                            <div class="date">12:45:24 on 7 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3393,7 +3393,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 20:12:39 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 21:15:35 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
