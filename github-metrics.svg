@@ -518,12 +518,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 14.251580383747806%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.140100084801833%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.16634641269134015%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16699438071364006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -592,6 +592,14 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Great performance from
+                            <span class="hashtag">#POR</span>
+                            for the
+                            <span class="hashtag">#Eurovision</span>
+                            ! Let’s now hope it will be in the finals!
+                            <div class="date">20:59:30 on 10 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@SlamingDev</span>
                             <span class="mention">@mcface3000</span>
                             I think it’s a great idea! And it could be a great way to get some feedback later on! Plus it helps the growth of the app usage since it might make people curious about it.
@@ -601,16 +609,6 @@
                             <span class="mention">@mcface3000</span>
                             Sure! You just need to write a small summary of what you did. Since I’m learning a new skill for a possible future app I usually say what I learnt or what I didn’t like. I also saw a few devs posting their user usage, asking for ideas.
                             <div class="date">19:08:50 on 9 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 57 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Going now deep into CoreData. Good tricks I learnt today!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">18:16:23 on 9 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3363,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2022, 20:18:03 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 10 May 2022, 21:22:03 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
