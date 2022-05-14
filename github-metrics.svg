@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1879" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1896" class="">
     <defs>
         <style/>
     </defs>
@@ -518,12 +518,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 12.11083549177185%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 13.354009442089666%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.14022677298443575%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.15438161204727938%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -592,6 +592,16 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Day 62 of
+                            <span class="hashtag">#100DaysOfSwiftUI</span>
+                            . Started a new chapter about view controllers. Great sharing about state properties.
+                            <span class="hashtag">#Swift</span>
+                            <span class="hashtag">#SwiftUI</span>
+                            <span class="hashtag">#iosdev</span>
+                            <span class="hashtag">#buildinpublic</span>
+                            <div class="date">18:54:32 on 14 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@KSlazinski</span>
                             <span class="mention">@SkoresApp</span>
                             Hope that when I release my the first app I’ll have the same sales 😄. Do you use any advertising to promote your app?
@@ -606,12 +616,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">16:40:16 on 13 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@krzyzanowskim</span>
-                            <span class="mention">@onurgenes</span>
-                            Old container images?
-                            <div class="date">10:26:41 on 13 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3346,7 +3350,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2022, 18:18:55 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 14 May 2022, 19:18:23 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
