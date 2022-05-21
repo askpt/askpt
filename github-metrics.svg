@@ -518,7 +518,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 4.828322905539448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.8068669527897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -2999,7 +2999,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 692k out of 307m repositories</span>
+                                    <span class="gh">ranked 692k out of 308m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -3054,7 +3054,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 376k out of 91m users</span>
+                                    <span class="gh">ranked 377k out of 91m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -3095,7 +3095,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 360k out of 307m repositories</span>
+                                    <span class="gh">ranked 360k out of 308m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">66</div>
                                     </div>
@@ -3345,7 +3345,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2022, 07:19:45 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 08:14:20 (timezone Europe/Dublin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
