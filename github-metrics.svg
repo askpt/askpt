@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1879" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1862" class="">
     <defs>
         <style/>
     </defs>
@@ -518,7 +518,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 2.6885909435871493%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.366141995235657%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -587,6 +587,18 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            New Lock Screen looks awesome!
+                            <span class="hashtag">#iOS16</span>
+                            <span class="hashtag">#WWDC22</span>
+                            <div class="date">18:10:16 on 6 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
+                            Waiting now for
+                            <span class="hashtag">#WWDC22</span>
+                            ! Let’s see the updated iOS and new features for developers!
+                            <div class="date">17:24:25 on 6 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 80 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Completed another lesson! Liked the Results for the async calls!
@@ -595,26 +607,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">17:03:43 on 6 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 79 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Playing around with environment and TabView!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">13:42:22 on 5 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 78 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Completed the challenge for the app I created yesterday! Added MapKit!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">19:27:03 on 4 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3324,7 +3316,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2022, 17:20:29 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 18:17:47 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
