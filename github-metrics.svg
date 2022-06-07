@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1829" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1846" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1744 Commits
+                            1808 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    843k added, 149k removed
+                                    803k added, 148k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.53940014568903" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="132.53940014568903" y="0" width="131.16662622537734" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="263.7060263710664" y="0" width="44.12949309206738" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="307.8355194631338" y="0" width="43.54277739065106" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="351.37829685378483" y="0" width="34.3931636070552" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="385.77146046084005" y="0" width="19.73531322510458" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="405.5067736859446" y="0" width="12.783084215827508" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="418.2898579017721" y="0" width="41.71014209822792" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.4746620297689" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="132.4746620297689" y="0" width="131.1025586330682" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="263.57722066283714" y="0" width="44.10793829224068" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="307.6851589550778" y="0" width="43.52150916877061" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="351.20666812384843" y="0" width="34.37636446197076" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="385.5830325858192" y="0" width="19.725673623643562" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="405.30870620946274" y="0" width="13.001524773907969" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="418.31023098337073" y="0" width="41.689769016629306" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>28.81%</div>
+                                <div>28.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>7.48%</div>
+                                <div>7.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,7 +277,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>2.78%</div>
+                                <div>2.83%</div>
                             </small>
                         </div>
                     </section>
@@ -290,7 +290,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>28.51%</div>
+                                <div>28.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>9.47%</div>
+                                <div>9.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,7 +323,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>9.07%</div>
+                                <div>9.06%</div>
                             </small>
                         </div>
                     </section>
@@ -518,8 +518,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 2.7516213802120415%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 3.481679251773108%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -587,6 +587,16 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Day 81 of
+                            <span class="hashtag">#100DaysOfSwiftUI</span>
+                            . Playing around with notifications and Swift Package Manager!
+                            <span class="hashtag">#Swift</span>
+                            <span class="hashtag">#SwiftUI</span>
+                            <span class="hashtag">#iosdev</span>
+                            <span class="hashtag">#buildinpublic</span>
+                            <div class="date">18:50:20 on 7 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@ios_dev_alb</span>
                             Don’t forget to share updates!
                             <div class="date">20:22:52 on 6 Jun 2022</div>
@@ -595,13 +605,6 @@
                             <span class="mention">@Mouxy</span>
                             Com Touch Bar!
                             <div class="date">19:32:35 on 6 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Weather in
-                            <span class="hashtag">#iPadOS16?</span>
-                            Missing now the calculator!
-                            <span class="hashtag">#WWDC22</span>
-                            <div class="date">19:32:21 on 6 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3316,7 +3319,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2022, 18:19:50 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 19:17:06 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
