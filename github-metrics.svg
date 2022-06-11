@@ -587,6 +587,16 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Day 84 of
+                            <span class="hashtag">#100DaysOfSwiftUI</span>
+                            . Completed another app with notifications and context menus!
+                            <span class="hashtag">#Swift</span>
+                            <span class="hashtag">#SwiftUI</span>
+                            <span class="hashtag">#iosdev</span>
+                            <span class="hashtag">#buildinpublic</span>
+                            <div class="date">15:23:16 on 11 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@24hoursoflemans</span>
                             starting soon! This year from the couch, next year in the grandstands!
                             <span class="hashtag">#LeMans24</span>
@@ -601,16 +611,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">17:23:53 on 9 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 82 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Starting to work now on the app. Adding the TabViews and environment variables!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">22:07:35 on 8 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3381,7 +3381,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 15:12:54 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 16:14:21 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
