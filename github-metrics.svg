@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1846" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1862" class="">
     <defs>
         <style/>
     </defs>
@@ -582,21 +582,25 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            <span class="mention">@matteo_spada</span>
+                            <span class="mention">@KSlazinski</span>
+                            <span class="mention">@NotionHQ</span>
+                            Thank you for sharing this! It will be useful later!
+                            <div class="date">09:55:33 on 18 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@matteo_spada</span>
+                            : I've created this
+                            <span class="mention">@NotionHQ</span>
+                            database with a list of App Store optimization tools that you can use for free. For the momen…
+                            <div class="date">09:55:16 on 18 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Playing Strobe. Such a masterpiece
                             <span class="mention">@deadmau5</span>
                             <a href="https://t.co/khvnSt6uht" class="link">pic.twitter.com/khvnSt6uht</a>
                             <div class="date">22:36:45 on 17 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@stephenjtanner_</span>
-                            Wait. Except if it’s something urgent like a broken phone. It’s only 3/4 months from now on 😊
-                            <div class="date">20:09:25 on 17 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@SimpleeScott</span>
-                            <span class="mention">@twostraws</span>
-                            Great work 👍
-                            <div class="date">19:27:04 on 17 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3367,7 +3371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 09:17:48 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 10:13:25 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
