@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1892" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1909" class="">
     <defs>
         <style/>
     </defs>
@@ -518,17 +518,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 5.034410217881292%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.076927739445797%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.3654395191585274%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.36852579579549244%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 0.20515902829952418%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.20689167483255716%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -597,6 +597,16 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            Day 96 of
+                            <span class="hashtag">#100DaysOfSwiftUI</span>
+                            . Started to learn a bit more about apps that target iPhone and iPad. That’s interesting!
+                            <span class="hashtag">#Swift</span>
+                            <span class="hashtag">#SwiftUI</span>
+                            <span class="hashtag">#iosdev</span>
+                            <span class="hashtag">#buildinpublic</span>
+                            <div class="date">20:27:41 on 27 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Day 95 of
                             <span class="hashtag">#100DaysOfSwiftUI</span>
                             . Completed the Roll the dice challenge. Decided to not add persistence storage for now.
@@ -615,16 +625,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">22:22:57 on 22 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 93 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Playing around with the GeometryReader and absolute positioning!
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">21:25:31 on 21 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3364,7 +3364,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2022, 20:12:13 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 21:15:26 (timezone Europe/Dublin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
