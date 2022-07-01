@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1862" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1846" class="">
     <defs>
         <style/>
     </defs>
@@ -518,17 +518,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 12.344273866243164%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 12.91837984428309%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.4023292747485442%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.39891523051351585%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 0.2258690665254985%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.223952410112851%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -597,6 +597,11 @@
                             askpt33
                         </div>
                         <div class="tweet">
+                            <span class="mention">@joforselldev</span>
+                            Planning on creating an app related to fitness. 😁
+                            <div class="date">21:40:53 on 1 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@dpaulandri</span>
                             Thanks 😁
                             <div class="date">19:23:19 on 1 Jul 2022</div>
@@ -610,16 +615,6 @@
                             <span class="hashtag">#iosdev</span>
                             <span class="hashtag">#buildinpublic</span>
                             <div class="date">18:58:42 on 1 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Day 99 of
-                            <span class="hashtag">#100DaysOfSwiftUI</span>
-                            . Just completed the final challenges and now ready for the last day.
-                            <span class="hashtag">#Swift</span>
-                            <span class="hashtag">#SwiftUI</span>
-                            <span class="hashtag">#iosdev</span>
-                            <span class="hashtag">#buildinpublic</span>
-                            <div class="date">15:02:41 on 30 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -3385,7 +3380,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2022, 21:16:14 (timezone Europe/Dublin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 1 Jul 2022, 22:13:55 (timezone Europe/Dublin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
