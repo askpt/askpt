@@ -59,3 +59,14 @@ jobs:
           # plugin_tweets_limit: 3
           # plugin_tweets_user: askpt33
           # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+  contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
