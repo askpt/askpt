@@ -55,7 +55,7 @@ jobs:
           plugin_posts_limit: 3
           plugin_posts_source: dev.to
           plugin_posts_user: askpt
-          plugin_tweets: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: askpt33
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          # plugin_tweets: yes
+          # plugin_tweets_limit: 3
+          # plugin_tweets_user: askpt33
+          # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
