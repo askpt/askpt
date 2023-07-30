@@ -24,7 +24,7 @@ jobs:
           # Options
           user: askpt
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: no
           config_timezone: Europe/Dublin
           plugin_achievements: no
           # plugin_achievements_display: compact
