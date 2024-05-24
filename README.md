@@ -4,7 +4,6 @@
 - 🔭 I’m André Silva  
 - 🌍 Born in Portugal 🇵🇹 Living in Ireland 🇮🇪  
 - 🔭 I’m currently working on dotnet
-- 🌱 I’m currently learning SwiftUI
 
 ## 🌐 Socials
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Askpt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Askpt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13580576)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Askpt33)--> 
