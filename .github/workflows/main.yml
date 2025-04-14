@@ -51,10 +51,10 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_other: yes
           plugin_lines: yes
-          plugin_posts: yes
-          plugin_posts_limit: 3
-          plugin_posts_source: dev.to
-          plugin_posts_user: askpt
+          # plugin_posts: yes
+          # plugin_posts_limit: 3
+          # plugin_posts_source: dev.to
+          # plugin_posts_user: askpt
           # plugin_tweets: yes
           # plugin_tweets_limit: 3
           # plugin_tweets_user: askpt33
